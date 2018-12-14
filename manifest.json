@@ -1,0 +1,14 @@
+{
+  "manifest_version": "2",
+  "api_version": "1",
+  "name": "MPRIS Extension",
+  "description": "MPRIS Extension",
+  "developer_name": "Safa Ariman",
+  "icon": "images/replace_me.png",
+  "options": {
+    "query_debounce": 0.5
+  },
+  "preferences": [
+
+  ]
+}
